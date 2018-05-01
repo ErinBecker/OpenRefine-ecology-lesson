@@ -6,9 +6,9 @@ questions:
 - "How can we select only a subset of our data to work with?"
 - "How can we sort our data?"
 objectives:
-- "Filter to a subset of rows by text filter or include/exclude."
-- "Sort table by a column."
-- "Sort by multiple columns."
+- "Employ *text filter* or *include/exclude* to filter to a subset of rows."
+- "Sort tables by a column."
+- "Sort tables by multiple columns."
 keypoints:
 - "OpenRefine provides a way to sort and filter data without affecting the raw data."
 ---
@@ -117,7 +117,7 @@ You can sort by multiple columns by performing sort on additional columns. The s
 > {: .solution}  
 {: .challenge}
 
-If you go back to one of the already sorted colunms and select > `Sort` > `Remove sort`, that column is removed from your multiple sort. If it is the only column sorted, then data reverts to its original order.
+If you go back to one of the already sorted columns and select > `Sort` > `Remove sort`, that column is removed from your multiple sort. If it is the only column sorted, then data reverts to its original order.
 
 > ## Exercise
 >
